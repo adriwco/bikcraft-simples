@@ -3,8 +3,6 @@
   padding: 0px;
 }
 body{
-  max-width: 1200px;
-  margin: 0 auto;
   font-family: "Fira Sans", Arial, sans-serif;
   color: #141414;
   margin-bottom: 1000px;
@@ -31,7 +29,7 @@ img{
   .subtitulo{
     font-size: 3rem;
     text-transform: capitalize;
-    max-width: initial;
+    max-width: initial !important;
   }
 
 }
