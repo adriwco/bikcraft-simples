@@ -1,3 +1,3 @@
 # bikcraft-simples
-Projeto de site simples com a finalidade de aprimorar os conhecimentos de posicionamento e aplicação de estilo.
-<a href="(https://adriwco.github.io/bikcraft-simples/)">adriwco.github.io/bikcraft-simples</a>
+Projeto de site simples com a finalidade de aprimorar os conhecimentos de posicionamento e aplicação de estilo.<br>
+<a href="(https://adriwco.github.io/bikcraft-simples/)">bikcraft-simples</a>
