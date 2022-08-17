@@ -1,7 +1,7 @@
 ## bikcraft-simples
 🔸Projeto de site simples com a finalidade de aprimorar os conhecimentos de posicionamento e aplicação de estilo.
 ***
-#### 🔸Tecnologias sendo utilizadas:
+#### 🔸Tecnologias utilizadas:
 
 [![HTML5](https://skills.thijs.gg/icons?i=html)](https://pt.wikipedia.org/wiki/HTML5)
 [![CSS3](https://skills.thijs.gg/icons?i=css)](https://pt.wikipedia.org/wiki/CSS3)
